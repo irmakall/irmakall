@@ -1,4 +1,4 @@
-# Hi, I'm Irmak Al 👋
+# Hi, I'm Irmak 👋
 
 🎓 Software Engineering student  
 💻 Currently exploring different areas in tech  
